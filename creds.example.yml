@@ -1,0 +1,7 @@
+# MAIN NET
+prod:
+  access_key: replace_me
+  secret_key: replace_me
+telegram:
+  api_key: replace_me
+  chatId: replace_me
